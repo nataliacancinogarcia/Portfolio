@@ -1,5 +1,5 @@
 # Portfolio
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| [Value 1 ](https://github.com/nataliacancinogarcia/Regional-Temperature-Effects-on-Child-Nutrition) | Value 2  | Value 3  |
+| Project | Tools | Description |
+|---------------------------------------------------|----------|----------|
+| [Regional-Temperature-Effects-on-Child-Nutrition](https://github.com/nataliacancinogarcia/Regional-Temperature-Effects-on-Child-Nutrition) | R, Tableau  | The study 🌍 investigates the impact of rising temperatures 🌡️ on child nutrition 🍽️, focusing on children aged 1-5 👶 across regions defined by the World Bank. The key goal 🎯 is to understand how temperature variations influence child health indicators 🧒 such as weight-for-age (WAZ) ⚖️, height-for-age (HAZ) 📏, and weight-for-height (WHZ) 📊 while considering socio-economic factors 💼  |
