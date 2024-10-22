@@ -3,7 +3,7 @@
 | Project | Tools | Description |
 |---------------------|----------|---------------------------------|
 | [Regional-Temperature-Effects-on-Child-Nutrition](https://github.com/nataliacancinogarcia/Regional-Temperature-Effects-on-Child-Nutrition) | R, Tableau  | The study 🌍 investigates the impact of rising temperatures 🌡️ on child nutrition 🍽️, focusing on children aged 1-5 👶 across regions defined by the World Bank. The key goal 🎯 is to understand how temperature variations influence child health indicators 🧒 such as weight-for-age (WAZ) ⚖️, height-for-age (HAZ) 📏, and weight-for-height (WHZ) 📊 while considering socio-economic factors 💼  |
-|[Cyclistic_Bike_Share_Case](https://github.com/nataliacancinogarcia/Cyclistic_Bike_Share_Case/blob/main/cyclistic-bike-share-analysis-in-r.ipynb)|R, Tableau|🚴‍♀️ The Cyclistic Bike-Share Marketing Project 🚴‍♂️ aims to analyze bike usage patterns between casual riders 🚲 and annual members 📅 to develop targeted marketing strategies 🎯. The primary goal is to encourage casual riders to convert into more profitable annual memberships 💳 by leveraging Cyclistic’s historical bike trip data 📊.|
+|[Cyclistic_Bike_Share_Case](https://github.com/nataliacancinogarcia/Cyclistic_Bike_Share_Case)|R, Tableau|🚴‍♀️ The Cyclistic Bike-Share Marketing Project 🚴‍♂️ aims to analyze bike usage patterns between casual riders 🚲 and annual members 📅 to develop targeted marketing strategies 🎯. The primary goal is to encourage casual riders to convert into more profitable annual memberships 💳 by leveraging Cyclistic’s historical bike trip data 📊.|
 
 
 
